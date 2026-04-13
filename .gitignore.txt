@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+
+# Dataset (Don't Upload Large Data)
+data/
+*.zip
+
+# Model Checkpoints (Optional)
+*.h5
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Kaggle API
+kaggle.json
