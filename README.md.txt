@@ -149,19 +149,8 @@ Generated Outputs:
 
 ### Sample Images
 
-(Add image)
-
-### Model Training
-
-(Add image)
-
-### Confusion Matrix
-
-(Add image)
-
-### Prediction Output
-
-(Add image)
+![Accuracy Plot](outputs/accuracy_plot.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ---
 
